@@ -7,3 +7,5 @@ Question 3 : predicts whether the cancer is benign or malignant using LinearRegr
 ## Data set
 Breast Cancer Wisconsin (Diagnostic) Data Set
 https://www.kaggle.com/uciml/breast-cancer-wisconsin-data 
+## Breast Cancer Diagnostics project blog post 
+https://medium.com/@hannan.alsufyani/breast-cancer-diagnostics-project-3758c7b6d150 
