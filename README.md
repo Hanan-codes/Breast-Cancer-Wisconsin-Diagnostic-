@@ -7,12 +7,13 @@ I used the Breast Cancer Wisconsin (Diagnostic) Data Set to answer 3 quastions <
 Question 1: How many patients are daignosied with Benign tumors or Malignant tumors? <br /> 
 Question 2: which varibles have an influnce in the target varible "dignosis" <br /> 
 Question 3 : predicts whether the cancer is benign or malignant using LinearRegression <br /> 
-- Data Understanding 
+- Data Understanding  <br /> 
 The diagnosis coulmns <Targit varible> have two values M\B  <br /> 
--- What are B and M  <br /> 
+  * What are B and M  <br /> 
 Tumors can be Benign (noncancerous) or Malignant (cancerous). <br /> 
 Benign tumors tend to grow slowly and do not spread. <br /> 
 Malignant tumors can grow rapidly, invade and destroy nearby normal tissues, and spread throughout the body <br /> 
+There is unfortunately 212 patients has been diagnosed with cancerous tumor 'Malignant' and 357 has been diagnosed with noncancerous tumor 'Benign'<br /> 
 ## Data set
 Breast Cancer Wisconsin (Diagnostic) Data Set
 https://www.kaggle.com/uciml/breast-cancer-wisconsin-data 
