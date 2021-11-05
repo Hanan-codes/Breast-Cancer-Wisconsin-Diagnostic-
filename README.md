@@ -13,7 +13,15 @@ The diagnosis coulmns <Targit varible> have two values M\B  <br />
 Tumors can be Benign (noncancerous) or Malignant (cancerous). <br /> 
 Benign tumors tend to grow slowly and do not spread. <br /> 
 Malignant tumors can grow rapidly, invade and destroy nearby normal tissues, and spread throughout the body <br /> 
-There is unfortunately 212 patients has been diagnosed with cancerous tumor 'Malignant' and 357 has been diagnosed with noncancerous tumor 'Benign'<br /> 
+<img width="552" alt="Screen Shot 2021-11-06 at 1 41 13 AM" src="https://user-images.githubusercontent.com/84443038/140586246-92d4dfa3-36b4-415e-84d9-1ef92ab9b15b.png"> 
+There is unfortunately 212 patients has been diagnosed with cancerous tumor 'Malignant' and 357 has been diagnosed with noncancerous tumor 'Benign'<br /> </ol>
+ <li> Prepare Data</li> 
+ <ul>
+ <li> There was no null nor duplicated values in the data set to deal with </li> 
+ <li> The diagnosis coulmns is an object type I changed it into a numerical type becuse it is our target variable </li> 
+ </ul>
+ <li> Data Modeling</li> 
+ 
 ## Data set
 Breast Cancer Wisconsin (Diagnostic) Data Set
 https://www.kaggle.com/uciml/breast-cancer-wisconsin-data 
