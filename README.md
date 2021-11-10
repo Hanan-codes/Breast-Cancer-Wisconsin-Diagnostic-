@@ -28,11 +28,13 @@ From the heatmap we can see the columns that have a positive influence on the di
  </ul>
   <li> Evaluate the Results</li> 
 The Logistic Regression model is predicting with 96% accuracy on our test data
- 
-## Data set
-Breast Cancer Wisconsin (Diagnostic) Data Set
-https://www.kaggle.com/uciml/breast-cancer-wisconsin-data 
+
 ## Installation 
 Python 3.8 is used in this project 
+##  Acknowledgments
+### Data set
+Breast Cancer Wisconsin (Diagnostic) Data Set
+https://www.kaggle.com/uciml/breast-cancer-wisconsin-data 
 ## Breast Cancer Diagnostics project blog post 
 https://medium.com/@hannan.alsufyani/breast-cancer-diagnostics-project-3758c7b6d150 
+
