@@ -2,7 +2,7 @@
 ## Installation 
 Python 3.8 is used in this project 
 The code should run with no issues using Python versions 3.* <br /> 
-There should be nnecessary libraries to run the code here beyond the Anaconda distribution of Python <br /> 
+,there should be no necessary libraries to run the code here beyond the Anaconda distribution of Python <br /> 
 ## Motivation 
 October is Breast Cancer Awareness Month, people all over the world show their support for everyone affected by breast cancer. I choose to Analyze the Breast Cancer Wisconsin (Diagnostic) Data Set for my Data Scientist Nano-degree project using CRISP-DM process.
 ## CRISP-DM process
