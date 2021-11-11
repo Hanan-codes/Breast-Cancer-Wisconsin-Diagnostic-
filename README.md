@@ -1,8 +1,7 @@
 # Breast-Cancer-Wisconsin-Diagnostic
 ## Installation 
-Python 3.8 is used in this project 
-The code should run with no issues using Python versions 3.* <br /> 
-,there should be no necessary libraries to run the code here beyond the Anaconda distribution of Python <br /> 
+Python 3.8 is used in this project, the code should run with no issues using Python versions 3.* <br /> 
+There should be no necessary libraries to run the code here beyond the Anaconda distribution of Python <br /> 
 ## Motivation 
 October is Breast Cancer Awareness Month, people all over the world show their support for everyone affected by breast cancer. I choose to Analyze the Breast Cancer Wisconsin (Diagnostic) Data Set for my Data Scientist Nano-degree project using CRISP-DM process.
 ## CRISP-DM process
@@ -31,9 +30,10 @@ From the heatmap we can see the columns that have a positive influence on the di
  </li> Logistic regression is a statistical model used predicts whether the cancer is benign or malignant </li>
  </ul>
   <li> Evaluate the Results</li> 
-The Logistic Regression model is predicting with 96% accuracy on our test data
+The Logistic Regression model is predicting with 96% accuracy on our test data 
+
 ## File Descriptions
-jupytor: There is one notebooks available here to showcase work related to the above questions, The notebook structured using CRISP-DM process. <br /> 
+jupytor: There is one notebook available here to showcase work related to the above questions, The notebook structured using CRISP-DM process. <br /> 
 Csv: The Breast Cancer Wisconsin (Diagnostic) Data Set  <br /> 
 ##  Acknowledgments
 ### Data set
